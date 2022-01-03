@@ -5,5 +5,5 @@ z = 11
 if (z > x) {
   alert("true");
 } else if (y > z) {
-  alert("y is greater than z");
+  document.getElementById("salt221").innerHTML = 98 * 21;
 }
