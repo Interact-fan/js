@@ -9,10 +9,10 @@ if (z > x) {
 }
 if (x > g {
     while (y > z) {
-document.getElementById('salt112').style.backgroundcolor='blue';
-document.getElementById('salt112').style.backgroundcolor='lightblue';
-document.getElementById('salt112').style.backgroundcolor='green';
-document.getElementById('salt112').style.backgroundcolor='red';
-document.getElementById('salt112').style.backgroundcolor='yellow';
+document.body.style.backgroundColor = "#00ff2f";
+document.body.style.backgroundColor = "#1900ff";
+document.body.style.backgroundColor = "#fbff00";
+document.body.style.backgroundColor = "#ff00f2";
+document.body.style.backgroundColor = "#ff0d00";
   }
 }
